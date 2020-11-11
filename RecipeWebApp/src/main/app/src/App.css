@@ -1,0 +1,12 @@
+body {
+}
+.new-recipe-form {
+  margin-top: 2px;
+}
+.button-bottom {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}

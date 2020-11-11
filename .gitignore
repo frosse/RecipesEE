@@ -1,0 +1,10 @@
+.idea
+.settings
+.classpath
+.project
+/target
+*.iml
+RecipeRest/target
+RecipeWebApp/src/main/build
+RecipeWebApp/src/main/node_modules
+RecipeWebApp/target
